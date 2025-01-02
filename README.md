@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hey There! I'm <span style="color:#FF5733;">Sohana Afrin</span> ✨</h1>
 <h3 align="center">Crafting captivating digital experiences as a <span style="color:#4285F4;">UI/UX Designer</span> from the vibrant land of <span style="color:#28A745;">Bangladesh</span>!</h3>
 
-<img align="right" alt="Designing" width="400" src="C:\Users\Asus\Downloads\Light Gif.gif">
+<img align="right" alt="Designing" width="400" src="https://i.ibb.co.com/4NXxjwk/Light-Gif.gif">
 
 
 
